@@ -27,7 +27,7 @@ import { ShoppingListService } from './services/shopping-list/shopping-list.serv
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [ShoppingListService],
   bootstrap: [AppComponent]
